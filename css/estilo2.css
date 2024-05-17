@@ -56,6 +56,7 @@ div.product{
     gap: 20px;/*define o espaçamento entre os itens*/
     padding: 20px;
     background: #141414;
+    align-items: center;
 }
 
 img.produto{
@@ -98,3 +99,13 @@ h2.titulo2{
     padding: 3px;
     background-color: white;
 }
+
+#Contato {
+    display: inline-flexbox;
+    text-align: center;
+}
+
+
+
+
+
